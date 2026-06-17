@@ -1,0 +1,14 @@
+D:\TestApps\AWS-Lambda-API-Gateway-Hosted-APIs\PointOfSale\Data\bin\Release\net8.0\Data.deps.json
+D:\TestApps\AWS-Lambda-API-Gateway-Hosted-APIs\PointOfSale\Data\bin\Release\net8.0\Data.runtimeconfig.json
+D:\TestApps\AWS-Lambda-API-Gateway-Hosted-APIs\PointOfSale\Data\bin\Release\net8.0\Data.dll
+D:\TestApps\AWS-Lambda-API-Gateway-Hosted-APIs\PointOfSale\Data\bin\Release\net8.0\Data.pdb
+D:\TestApps\AWS-Lambda-API-Gateway-Hosted-APIs\PointOfSale\Data\obj\Release\net8.0\Data.csproj.AssemblyReference.cache
+D:\TestApps\AWS-Lambda-API-Gateway-Hosted-APIs\PointOfSale\Data\obj\Release\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestApps\AWS-Lambda-API-Gateway-Hosted-APIs\PointOfSale\Data\obj\Release\net8.0\Data.AssemblyInfoInputs.cache
+D:\TestApps\AWS-Lambda-API-Gateway-Hosted-APIs\PointOfSale\Data\obj\Release\net8.0\Data.AssemblyInfo.cs
+D:\TestApps\AWS-Lambda-API-Gateway-Hosted-APIs\PointOfSale\Data\obj\Release\net8.0\Data.csproj.CoreCompileInputs.cache
+D:\TestApps\AWS-Lambda-API-Gateway-Hosted-APIs\PointOfSale\Data\obj\Release\net8.0\Data.dll
+D:\TestApps\AWS-Lambda-API-Gateway-Hosted-APIs\PointOfSale\Data\obj\Release\net8.0\refint\Data.dll
+D:\TestApps\AWS-Lambda-API-Gateway-Hosted-APIs\PointOfSale\Data\obj\Release\net8.0\Data.pdb
+D:\TestApps\AWS-Lambda-API-Gateway-Hosted-APIs\PointOfSale\Data\obj\Release\net8.0\Data.genruntimeconfig.cache
+D:\TestApps\AWS-Lambda-API-Gateway-Hosted-APIs\PointOfSale\Data\obj\Release\net8.0\ref\Data.dll

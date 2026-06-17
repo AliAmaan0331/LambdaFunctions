@@ -1,0 +1,26 @@
+{
+  "Information": [
+    "This file provides default values for the deployment wizard inside Visual Studio and the AWS Lambda commands added to the .NET Core CLI.",
+    "To learn more about the Lambda commands with the .NET Core CLI execute the following command at the command line in the project root directory.",
+    "dotnet lambda help",
+    "All the command line options for the Lambda command can be specified in this file."
+  ],
+  "profile": "default",
+  "region": "ap-south-1",
+  "configuration": "Release",
+  "function-runtime": "dotnet8",
+  "function-memory-size": 512,
+  "function-timeout": 30,
+  "function-handler": "PointOfSale",
+  "framework": "net8.0",
+  "function-name": "POS",
+  "package-type": "Zip",
+  "function-role": "arn:aws:iam::632796834683:role/lambda_exec_POS",
+  "function-architecture": "x86_64",
+  "function-subnets": "subnet-0bfccb9e3ac24a67e,subnet-0c91fb05f934fb8ae,subnet-012b7698399b183e6",
+  "function-security-groups": "sg-0d3710d59c6cdc9cd,sg-02b889cab5a5b3ced,sg-0e08fdeba8b8b5da7",
+  "tracing-mode": "PassThrough",
+  "environment-variables": "",
+  "image-tag": "",
+  "function-description": ""
+}
